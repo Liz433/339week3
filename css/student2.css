@@ -1,0 +1,44 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+ 
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+ 
+ 
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+
+ li {
+    display: inline-block;
+    font-size: 20px;
+    color: rgb(245, 64, 245);
+    background-color: rgb(231, 124, 231);
+    border-radius: 40px;
+    border: 3px dashed purple;
+    padding: 15px;
+    
+ }
+ img {
+    display: inline-block;
+    width:  24%;
+    padding: 30px;
+    border: 4px dashed purple;
+    box-sizing: border-box;
+ }
+ 
+ p {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:blueviolet;
+    border: 4px dashed purple;
+    border-radius: 40px;
+    padding: 15px;
+ }
