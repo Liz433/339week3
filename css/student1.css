@@ -1,0 +1,47 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+ 
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+ 
+ 
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+
+ li{
+    display:inline-block;
+ }
+
+ li a{
+    color: #00008B;
+    background-color:Cyan;
+    text-align: center;
+    padding: 14px;
+    border-radius: 25px;
+    border: 3px solid black;
+ }
+
+ img {
+    width: 24%;
+    padding: 11px;
+    border: groove;
+    box-sizing: border-box;
+ }
+
+ p{
+    color:azure;
+    background-color: blueviolet;
+    padding: 5px;
+    text-align: center;
+    
+
+ }
+ 
